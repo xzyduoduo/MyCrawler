@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+pipelines.py
+middlewares.py
 __pycache__/
 *.py[cod]
 *$py.class
