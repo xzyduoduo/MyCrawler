@@ -1,4 +1,3 @@
-change with amend
 ## Introduction
 MyCrawler作为个人爬虫项目的记录，基于python和scrapy框架，希望分别对豆瓣，知乎和新浪微博进行爬虫实验，进而了解更多的爬虫技巧和策略
 
